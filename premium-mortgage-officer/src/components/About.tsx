@@ -11,14 +11,14 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Rick Grassi" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Rick Grassi
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
